@@ -1,0 +1,14 @@
+dash
+dash-core-components
+dash-html-components
+fastai
+keras
+matplotlib
+numpy
+pandas
+plotly
+pyramid-arima
+requests
+scikit-learn
+yahoofinancials
+yfinance

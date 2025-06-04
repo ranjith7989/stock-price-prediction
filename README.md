@@ -1,5 +1,3 @@
-# stock-price-prediction
-Stock price prediction using ML &amp; LSTM 
 # Stock Price Prediction
 
 Stock price prediction using Machine Learning and LSTM (Long Short-Term Memory) models.
